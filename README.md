@@ -30,6 +30,6 @@ npm run dev — запускает сервер с hot-reload
 
 ## Ссылки на проект
 
-
+https://api.moviesproject.nomoredomainsicu.ru
 
 https://github.com/Aliya-f/movies-explorer-api
